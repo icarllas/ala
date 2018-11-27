@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">calculadorra</string>
+    <string name="btn_9">7</string>
+    <string name="btn_8">8</string>
+    <string name="btn_7">9</string>
+    <string name="btnclear">clear</string>
+    <string name="btn_6">6</string>
+    <string name="btn_5">5</string>
+    <string name="btn_4">4</string>
+    <string name="btn_mais">+</string>
+    <string name="btn_3">3</string>
+    <string name="btn_2">2</string>
+    <string name="btn_1">1</string>
+    <string name="btnmenos">-</string>
+    <string name="btnmult">x</string>
+    <string name="btn_zero">0</string>
+    <string name="btn_ponto">.</string>
+    <string name="btn_igual">=</string>
+    <string name="btn_divi">/</string>
+    <string name="btn_login">/</string>
+    <string name="btn_cad">/</string>
+    <string name="btn_salvar">/</string>
+    <string name="btn_ini">/</string>
+    <string name="btn_calc">/</string>
+    <string name="foto_de_perfil">Foto de perfil</string>
+    <string name="name">Name</string>
+    <string name="idade">Idade</string>
+    <string name="telefone">Telefone</string>
+    <string name="nascimento">Nascimento</string>
+    <string name="sexo">Sexo</string>
+    <string name="endereco">Endereço</string>
+    <string name="salvar">SALVAR</string>
+    <string name="informa_es">Informações</string>
+    <string name="inicio">Inicio</string>
+    <string name="calcular">Calcular</string>
+    <string name="senha">Senha</string>
+    <string name="login">LOGIN</string>
+    <string name="cadastro">Cadastro</string>
+    <string name="nome">Nome</string>
+
+
+
+
+
+</resources>
